@@ -21,7 +21,7 @@ Tesla is an American electric vehicle and clean-energy company founded in 2003. 
 - If you discover sensitive information accidentally, follow responsible disclosure practices: do not share the data publicly and report it to the owner securely.
 - Laws differ by country — always confirm the legal rules that apply where you operate.
 
-##The basic attempts used
+##  The basic attempts used
 site:tesla.com - search only on website and thereby narrowing down results to fewer numbers
 site:tesla.com filetype=pdf- to show lists of possible pdfs in the website
 site:tesla.com inurl:videos- to see the available videos on the website
