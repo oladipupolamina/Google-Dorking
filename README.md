@@ -26,6 +26,7 @@ site:tesla.com - search only on website and thereby narrowing down results to fe
 site:tesla.com filetype=pdf- to show lists of possible pdfs in the website
 site:tesla.com inurl:videos- to see the available videos on the website
 related:tesla.com- to show other related website to Tesla.Inc
+site:tesla.com "password" - show available passwords.
 
 ## Contributing
 If you want to contribute improvements to this README, please:
